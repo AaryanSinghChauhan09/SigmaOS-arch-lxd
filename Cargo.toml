@@ -1,0 +1,9 @@
+[package]
+name = "arch-lxd"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-lxd component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-lxd"
+
+[dependencies]
