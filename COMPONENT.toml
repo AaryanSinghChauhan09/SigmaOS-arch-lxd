@@ -3,7 +3,7 @@ name = "SigmaOS-arch-lxd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-lxd component"
+description = "SigmaOS SigmaOS-arch-lxd component"
 upstream = []
 
 [contract]
